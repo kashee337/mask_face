@@ -5,10 +5,10 @@
 * python:3.8.2  
 
 ## How to use  
-* 依存パッケージのインストール  
+1. 依存パッケージのインストール  
 `pip install -r requirements.txt`
-* mask用のgif又はpngを用意  
+2. mask用のgif又はpngを用意  
 参考サイト:https://gifmagazine.net/
-* 実行  
+3. 実行  
 `python main.py --img_path=/path/to/image`
 <image src="img/cap.gif">
